@@ -15,7 +15,7 @@ Aspic is the best tools for spotify, he create mass account and follow yours.
 <br><br>
 The tools works with http proxies
 <br>
-[proxyscrape](https://proxyscrape.com/home) -> freebies -> free-proxy-list -> download http proxy
+proxyscrape.com -> freebies -> free-proxy-list -> download http proxy
 <br><br><br>
 </strong>
 <img src="https://cdn.discordapp.com/attachments/1002625111997812836/1009933517980971019/unknown.png" width="720", height="400">
